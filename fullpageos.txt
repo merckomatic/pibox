@@ -1,1 +1,1 @@
-https://www.twitch.tv/evelynomadera
+https://player.twitch.tv/?channel=gh0stiegaming&parent=localhost&muted=false&sutoplay=true
