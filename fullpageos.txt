@@ -1,1 +1,1 @@
-https://player.twitch.tv/?channel=gh0stiegaming&parent=localhost&muted=false&sutoplay=true
+https://player.twitch.tv/?channel=comm_pass&parent=localhost&muted=false&sutoplay=true
