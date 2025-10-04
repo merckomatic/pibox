@@ -1,1 +1,1 @@
-https://player.twitch.tv/?channel=comm_pass&parent=localhost&muted=false&sutoplay=true
+https://player.twitch.tv/?channel=merckomatic&parent=localhost&muted=false&sutoplay=true
